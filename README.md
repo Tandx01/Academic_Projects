@@ -2,7 +2,7 @@
 
 The projects I made during my courses at Koç university
 
-Python folder contians the assesments that I made during the Python course
+Python folder contains the assesments that I made during the Python course
 
 Ambu.pdf shows a preminilary desing for a new ambu desing made while taking Introduction to Mechanical Engineering course.
 
