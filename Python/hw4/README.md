@@ -1,1 +1,1 @@
-hw4 file is implemeted to work with tr_cities file
+hw4.py is implemeted to work with tr_cities.cvs
